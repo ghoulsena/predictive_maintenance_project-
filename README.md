@@ -71,7 +71,7 @@ streamlit run app.py
 ```
 ## Видео-демонстрация
 
-[Ссылка на видео](video/demo.mp4)
+[Ссылка на видео](videos/demo.mp4)
 
-<video src="video/demo.mp4" controls width="100%"></video>
+<video src="videos/demo.mp4" controls width="100%"></video>
 
